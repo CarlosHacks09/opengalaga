@@ -6,11 +6,12 @@ OpenGalaga is a simple Galaga game engine built using Python and Pygame. The pla
 
 ## Features
 
-- Player spaceship that can move left and right
-- Shooting projectiles with sound effects
-- Intro music and text display
-- Twinkling star background
-- Cooldown mechanism for shooting
+- Spaceship can move left and right (INNOVATION ✨).
+- Shooting makes satisfying sound effects.
+- Intro music and text display (custom font).
+- Twinkling star background animated mathematically.
+- Cooldown mechanism for shooting.
+- Enemies with death animations 💥.
 
 ## Installation
 
